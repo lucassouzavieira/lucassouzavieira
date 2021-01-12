@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://lucassouzavieira.github.io/">Website</a> •
   <a href="https://www.linkedin.com/in/lucassouzavieira/?locale=en_US">Linkedin</a> •
+  <a href="https://medium.com/@lucassouzavieira">Medium</a> •
   <a href="https://stackoverflow.com/users/11335880/lucas-souza-vieira">Stackoverflow</a> •
   <a href="https://twitter.com/lucassouzavs">Twitter</a>
 </p>

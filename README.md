@@ -16,6 +16,13 @@
 - 💬 Ping me about **php**, **laravel**, **nosql**, **web development**
 - ⚡ Fun fact: I run a scicomm project that promotes science talks at the bar! Check it out at [@sciencepubbr](https://twitter.com/sciencepubbr)
 
+**Technologies I know and have been working on**
+
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="40" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" width="40" /></a>
 ---
 
 **Some stats**

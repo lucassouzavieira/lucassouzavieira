@@ -34,5 +34,5 @@
 **Some stats**
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=lucassouzavieira&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzavieira&layout=compact&hide_border=true&&exclude_repo=lucassouzavieira.github.io&langs_count=10&hide=tex,css,html,m4,zephir,shell,dart,vue,java,kotlin,awk,matlab,scilab,javascript">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzavieira&layout=compact&hide_border=true&&exclude_repo=lucassouzavieira.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,css,html,m4,zephir,shell,dart,vue,java,kotlin,awk,matlab,scilab,javascript">
 </p>

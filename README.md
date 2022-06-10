@@ -17,7 +17,6 @@
 ---
 
 **Some stats**
-<div>
-  <img src ="https://github-readme-stats.vercel.app/api?username=lucassouzavieira&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+<div align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzavieira&layout=compact&count_private=true&hide_border=true&&exclude_repo=lucassouzavieira.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,css,html,m4,zephir,shell,vue,kotlin,awk,matlab,scilab,javascript">
 </div>

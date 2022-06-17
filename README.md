@@ -29,4 +29,4 @@
 **🏁 Activity**. 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucassouzavieira&theme=graywhite&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzavieira&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzavieira&langs_count=10&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=css,html,shell,javascript,m4,batchfile,makefile,apacheconf)
